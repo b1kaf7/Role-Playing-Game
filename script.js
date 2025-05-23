@@ -70,3 +70,10 @@ function buyWeapon() {
 
 }
 
+function fightSlime(){
+
+}
+
+function fightBeast(){
+  
+}
